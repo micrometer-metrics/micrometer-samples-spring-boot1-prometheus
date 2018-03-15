@@ -1,4 +1,4 @@
-## Micrometer Boot 1.5.9 Prometheus Sample
+## Micrometer Boot 1.5.11 Prometheus Sample
 
 To run the sample:
 
