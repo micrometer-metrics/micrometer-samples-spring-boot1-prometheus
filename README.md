@@ -1,3 +1,5 @@
+# micrometer-samples-spring-boot1-prometheus is no longer actively maintained by VMware, Inc.
+
 ## Micrometer Boot 1.5.10 Prometheus Sample
 
 To run the sample:
